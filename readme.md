@@ -124,23 +124,6 @@ This project performs **in-depth EDA** on global poverty and income inequality d
 
 ---
 
-## **How to Run the Analysis**  
-1. **Clone this repository**  
-   ```bash
-   git clone https://github.com/your-repo-name.git
-   cd your-repo-name
-   ```  
-2. **Install dependencies**  
-   ```bash
-   pip install pandas matplotlib seaborn plotly geopandas
-   ```  
-3. **Run the analysis**  
-   ```bash
-   python eda_analysis.py
-   ```  
-
----
-
 ## **Future Improvements**  
 🔹 Integrate **machine learning models** for better forecasting.  
 🔹 Expand the dataset with **additional socio-economic factors**.  
@@ -149,11 +132,8 @@ This project performs **in-depth EDA** on global poverty and income inequality d
 ---
 
 ## **Contributors**  
-- **[Your Name]** – Data Science & Visualization  
-- **[Collaborator Name]** – Statistical Analysis  
+- **Devansh Singhal** – Data Science & Visualization  
 
-📩 **Contact:** your.email@example.com  
+📩 **Contact:** devanshsinghal627.com  
 
 ---
-
-This README follows a **structured and professional format** with embedded images and well-defined inferences. 🚀 Just update the **image links** in the markdown and push your results! Let me know if you need any refinements. 😊
