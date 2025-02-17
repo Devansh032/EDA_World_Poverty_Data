@@ -116,6 +116,21 @@ This project performs **in-depth EDA** on global poverty and income inequality d
 
 ---
 
+## **9️⃣ World Map Visualization - Global Poverty Rates**  
+📌 *Visualizing global poverty rates using a choropleth map.*  
+
+![Global Poverty Map](./plots/world.png)  
+
+### **📌 Inferences:**  
+- The **color intensity represents poverty rates** across different nations.  
+- Countries with **higher poverty rates are prominently visible**, allowing for quick identification of economically vulnerable regions.  
+- Helps in **understanding regional disparities** and focusing **aid efforts where they are needed the most**.  
+- Highlights **developing countries struggling with poverty despite economic growth**.  
+- Provides a **comprehensive geographic overview** of global poverty, supporting policy decisions and international assistance programs.  
+
+---
+
+
 ## **Summary of Key Insights**  
 📌 **Main Takeaways:**  
 ✔ Income growth **reduces poverty**, but **inequality can counteract progress**.  
